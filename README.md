@@ -15,4 +15,14 @@
 KOMENTAR NA DELOVANJE --> 
 Naloga nama ni predstavljala večjih težav. Edina napaka, ki sva jo naredila je bila pri "live expressions" ker sva namesto "voltage" napisala "Voltage". 
 
-![]()
+--> Slika vezja
+![Slika vezja]()
+
+--> Slika mikroprocesorja
+![Slika mikroprocesorja]()
+
+--> I2C okno
+![I2C okno]()
+
+--> Posntek delovanja
+![Posntek delovanja]()
