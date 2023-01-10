@@ -25,4 +25,4 @@ Naloga nama ni predstavljala večjih težav. Edina napaka, ki sva jo naredila je
 ![I2C okno]()
 
 --> Posntek delovanja
-![Posntek delovanja]()
+![Posntek delovanja](https://github.com/bozoslapy/Vaja8-I2C-ADS1115-STM32F0/blob/main/IMG_0553.MOV)
