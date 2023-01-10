@@ -19,7 +19,7 @@ Naloga nama ni predstavljala večjih težav. Edina napaka, ki sva jo naredila je
 ![Slika vezja](https://raw.githubusercontent.com/bozoslapy/Vaja8-I2C-ADS1115-STM32F0/main/IMG_0555.jpg)
 
 --> Slika mikroprocesorja
-![Slika mikroprocesorja]()
+![Slika mikroprocesorja](https://raw.githubusercontent.com/bozoslapy/Vaja8-I2C-ADS1115-STM32F0/main/pinout%208.PNG)
 
 --> I2C okno
 ![I2C okno]()
