@@ -16,13 +16,25 @@ KOMENTAR NA DELOVANJE -->
 Naloga nama ni predstavljala večjih težav. Edina napaka, ki sva jo naredila je bila pri "live expressions" ker sva namesto "voltage" napisala "Voltage". 
 
 --> Slika vezja
+
 ![Slika vezja](https://raw.githubusercontent.com/bozoslapy/Vaja8-I2C-ADS1115-STM32F0/main/IMG_0555.jpg)
 
+
+
 --> Slika mikroprocesorja
+
 ![Slika mikroprocesorja](https://raw.githubusercontent.com/bozoslapy/Vaja8-I2C-ADS1115-STM32F0/main/pinout%208.PNG)
 
+
+
+
 --> I2C okno
+
 ![I2C okno](https://raw.githubusercontent.com/bozoslapy/Vaja8-I2C-ADS1115-STM32F0/main/okno%20i2c%20conf.PNG)
 
+
+
+
 --> Posntek delovanja
+
 ![Posntek delovanja](https://github.com/bozoslapy/Vaja8-I2C-ADS1115-STM32F0/blob/main/IMG_0553.MOV)
